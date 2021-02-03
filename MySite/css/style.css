@@ -1,0 +1,99 @@
+/****************** TAG SELECTOR*******************/
+body{
+    margin: 0;
+    text-align: center;
+    font-family: 'Merriweather', serif;
+}
+h1{
+    font-size: 4.6875rem;
+    color: #66BFBF;
+    margin: 40px auto 0 auto;
+    font-family: 'Sacramento', cursive;
+}
+h2{
+   
+    font-size: 1.5625rem;
+    color: #66BFBF;
+    font-weight: normal;
+    line-height: 2;
+    font-family: 'Montserrat', sans-serif;
+}
+
+h3{
+    
+    color: #11999E;
+    font-family: 'Montserrat', sans-serif;
+}
+a{
+    color:#11999E;
+}
+hr{
+    color: #EAF6F6;
+    width: 4%;
+
+    border: #EAF6F6 dotted;
+}
+
+
+
+
+
+/****************** ID SELECTOR*******************/
+/****************** CLASS SELECTOR*******************/
+
+.top-container{
+    background-color: #f9e0ae;
+    position: relative;
+    padding-top: 100px;
+   
+}
+
+.middle-container{
+    
+   
+ 
+}
+.bottom-container{
+    
+}
+.top-cloud{
+    position:absolute;
+    right:300px;
+    top:50px;
+
+}
+.bottom-cloud{
+    position:absolute;
+    right: 300pxs;
+    bottom: 300px;
+}
+.skill-row{
+    width: 50%;
+    margin: 100 auto 100 auto;
+    text-align: left;
+    line-height: 2;
+    width: 25%;
+}
+.p-image{
+    width: 150px;
+}
+.s-image{
+    width: 50%;
+    float:left;
+    margin-right:30px;
+    
+    
+}
+.c-image{
+    width: 50%;
+    float: right;
+    margin-left:30px;
+    
+}
+.d-image{
+    width: 50%;
+    float:left;
+    margin-right:30px;
+  
+}
+
